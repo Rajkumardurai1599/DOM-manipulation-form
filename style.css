@@ -1,0 +1,9 @@
+h1,p{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: black;
+    }
+    body{
+        background-color: rgba(222, 184, 135, 0.13) !important;
+    }
